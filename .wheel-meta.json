@@ -1,0 +1,22 @@
+{
+  "wheel_id": 891,
+  "structure": "umbrella",
+  "slug": "goldcoastretainingwall-164",
+  "project": "retaining-walls-gold-coast-myths-ce4b84bb1f521d69dba759d5a2b7ac",
+  "parent_t1_ref": "goldcoastretainingwall-019",
+  "node_role": "buffer",
+  "money_target": "goldcoastretainingwall.net.au",
+  "primary_kw": "retaining walls gold coast myths",
+  "intended_url": "https://sitesau.github.io/goldcoastretainingwall-164/",
+  "tier": "T2",
+  "writeback_nonce": "d7afbb49067658d9",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/retaining-walls-gold-coast-goldcoastretainingwall-019/",
+      "anchor": "this retaining walls gold coast resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
